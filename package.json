@@ -1,0 +1,29 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "RPG that features object oriented programming to allow fighting between a player and enemies",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmcanall/jest-another-RPG.git"
+  },
+  "keywords": [
+    "oop",
+    "tdd",
+    "rpg",
+    "js",
+    "javascript",
+    "node",
+    "fight",
+    "game"
+  ],
+  "author": "Nathan McAnally",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmcanall/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/nmcanall/jest-another-RPG#readme"
+}
