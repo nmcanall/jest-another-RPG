@@ -28,5 +28,8 @@
   "homepage": "https://github.com/nmcanall/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
   }
 }
